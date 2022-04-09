@@ -126,6 +126,9 @@ img {
 .nav-link-txt:hover {
   color: var(--accent-color);
 }
+.page {
+ color: var(--accent-color);
+}
 
 /* Контактные данные */
 .auth-nav {
@@ -470,6 +473,7 @@ img {
 }
 .footer-box {
   display: flex;
+  align-items: baseline;
 }
 .adress-box {
   margin-right: 70px;
